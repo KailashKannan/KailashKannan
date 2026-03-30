@@ -3,7 +3,7 @@
 # Kailash Kannan K
 ### Mechatronics Engineer · Embedded Systems · Robotics · IoT · CAD Design
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailashkannan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailashkannan-k/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq8JKGdBVSXumSdz0Njchog%3D%3D)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kailashkannan04@gmail.com)
 [![Location](https://img.shields.io/badge/Chennai,_India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
